@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/grevory/angular-local-storage.git"
+    "url": "https://github.com/AdamQuadmon/angular-local-storage"
   },
   "keywords": [
     "AngularJS",
